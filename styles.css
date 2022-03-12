@@ -6,11 +6,17 @@
   background-repeat: no-repeat;
 }
 
+.logo {
+  margin-bottom: 0px;
+  padding-top: 200px;
+}
+
 .p1 {
   font-size: 25px;
   margin-bottom: 0px;
-  
+  font-weight: bold;
 }
+
 .p2 {
-  font-size: 10px;
+  /* font-size: 10px; */
 }
