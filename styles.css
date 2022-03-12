@@ -11,7 +11,7 @@
   padding-top: 200px;
 }
 
-.mouse{
+.mouse {
   padding-bottom: 30px;
 }
 
@@ -25,6 +25,11 @@
   font-size: 10px;
 }
 
-.about-p{
+.about-p {
   font-size: 15px;
+}
+
+.services {
+  background-image: url(images/s_image.jpg);
+  height: 50vh;
 }
