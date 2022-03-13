@@ -57,3 +57,16 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+#design {
+  display: none;
+  font-size: 12px;
+}
+#development{
+  display: none;
+  font-size: 12px;
+}
+#pr-management {
+  display: none;
+  font-size: 12px;
+}
