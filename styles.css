@@ -24,3 +24,36 @@
   background-image: url(images/s_image.jpg);
   height: 50vh;
 }
+
+.work1 {
+  height: 150px;
+}
+.work2 {
+  height: 150px;
+}
+.work3 {
+  height: 150px;
+}
+.work4 {
+  height: 150px;
+}
+.work5 {
+  height: 150px;
+}
+.work6 {
+  height: 150px;
+}
+.work7 {
+  height: 150px;
+}
+.work8 {
+  height: 150px;
+}
+
+.contact {
+  background-image: url(images/c_image.jpg);
+  height: 100vh;
+  background-position: top left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
