@@ -74,3 +74,19 @@
   display: none;
   font-size: 10px;
 }
+
+.portfolio {
+  position: relative;
+}
+.port1 {
+  display: none;
+  position: absolute;
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid white;
+  height: 80%;
+  width: 75%;
+  text-align: left;
+}
