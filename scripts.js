@@ -11,5 +11,6 @@ $(document).ready(function(){
 
   $("#product").click(function(){
     $("#product-img").toggle();
+    $("#pr-management").toggle();
   })
 })
