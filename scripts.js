@@ -80,12 +80,9 @@ $(document).ready(function(){
 
   $(".form1").submit(function(){
     var Name = this.NAME.value
-    alert(Name + "we have received your message. Thank you for reaching out to us.")
+    alert(Name + " we have received your message. Thank you for reaching out to us.")
   })
 
  
-
-
-
 })
 
