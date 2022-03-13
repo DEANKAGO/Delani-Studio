@@ -1,7 +1,7 @@
 # Delani-Studio
 
 ##### By Martin Kago 
-### Delani studio:
+### Delani studio: https://deankago.github.io/Delani-Studio/
 
 ## Table of Content
 
