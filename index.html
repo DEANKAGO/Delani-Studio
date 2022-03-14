@@ -188,22 +188,25 @@
     <div class="container-fluid contact p5">
       <h2 class="text-center text-white p-5">CONTACT US</h2>
 
-      <form action="https://gmail.us14.list-manage.com/subscribe/post?u=02a3c5a60a5db3b1ed9f35adf&amp;id=f055b2196c" method="post" target="_blank" class="form1">
+      <form action="https://gmail.us14.list-manage.com/subscribe/post?u=02a3c5a60a5db3b1ed9f35adf&amp;id=f055b2196c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form1" target="_blank" novalidate> 
         <div class="row g-3">
           <div class="col-md-6">
             <input
               type="text"
-              class="form-control placeholder"
+              class="form-control placeholder form-name"
               name="NAME"
+              id="name"
               placeholder="Name"
               aria-label="Name"
             />
+            <p id="input1"></p>
           </div>
           <div class="col-md-6">
             <input
               type="email"
               class="form-control placeholder"
               name="EMAIL"
+              id="email"
               placeholder="Email"
               aria-label="email"
             />
@@ -216,6 +219,7 @@
               class="form-control placeholder"
               rows="8"
               name="MESSAGE"
+              id="message"
               placeholder="  your message here..."
               aria-label="message"
             ></textarea>
@@ -290,3 +294,8 @@
     <script src="scripts.js"></script>
   </body>
 </html>
+
+
+
+
+<!-- method="post" target="_blank"  -->
