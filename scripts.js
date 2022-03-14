@@ -14,11 +14,7 @@ $(document).ready(function(){
     $("#pr-management").toggle();
   })
 
-
-})
-
-$(document).ready(function(){
-  $(".work4").hover(function(){
+  $(".work4").mouseover(function(){
     $(".port1").show();
   })
   $(".work4").mouseout(function(){
@@ -26,7 +22,7 @@ $(document).ready(function(){
   })
 
   
-  $(".work3").hover(function(){
+  $(".work3").mouseover(function(){
     $(".port2").show();
   })
   $(".work3").mouseout(function(){
@@ -34,28 +30,28 @@ $(document).ready(function(){
   })
 
 
-  $(".work2").hover(function(){
+  $(".work2").mouseover(function(){
     $(".port3").show();
   })
   $(".work2").mouseout(function(){
     $(".port3").hide();
   })
 
-  $(".work1").hover(function(){
+  $(".work1").mouseover(function(){
     $(".port4").show();
   })
   $(".work1").mouseout(function(){
     $(".port4").hide();
   })
 
-  $(".work5").hover(function(){
+  $(".work5").mouseover(function(){
     $(".port5").show();
   })
   $(".work5").mouseout(function(){
     $(".port5").hide();
   })
 
-  $(".work6").hover(function(){
+  $(".work6").mouseover(function(){
     $(".port6").show();
   })
   $(".work6").mouseout(function(){
@@ -63,7 +59,7 @@ $(document).ready(function(){
   })
 
 
-  $(".work7").hover(function(){
+  $(".work7").mouseover(function(){
     $(".port7").show();
   })
   $(".work7").mouseout(function(){
@@ -71,7 +67,7 @@ $(document).ready(function(){
   })
 
 
-  $(".work8").hover(function(){
+  $(".work8").mouseover(function(){
     $(".port8").show();
   })
   $(".work8").mouseout(function(){
@@ -83,6 +79,11 @@ $(document).ready(function(){
     alert(Name + " we have received your message. Thank you for reaching out to us.")
   })
 
- 
+
+
 })
+
+
+
+ 
 
